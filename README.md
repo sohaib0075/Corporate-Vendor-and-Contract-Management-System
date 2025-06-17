@@ -46,4 +46,9 @@ A web-based platform designed to streamline vendor relationships, contract lifec
 ---
 
 ## 📂 Project Structure
-
+📁 public/ → Frontend pages
+📁 routes/ → (Optional if modularized routes)
+📄 index.js → Main server file with API routes
+📄 package.json → Project dependencies
+📄 ERD.pdf / Schema.pdf → Database Design & Schema
+📄 Project_Report.pdf → Detailed project documentation
